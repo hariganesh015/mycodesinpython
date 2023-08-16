@@ -1,0 +1,12 @@
+s_username='EMC'
+S_PASSWORD=123
+
+def validate():
+    if (s_username==a and S_PASSWORD==b):
+        return 'Correct'
+    else:
+        return 'False'
+
+a=input('Enter username: ')
+b=int(input('Enter password: '))
+print(validate())
