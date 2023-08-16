@@ -1,0 +1,9 @@
+
+def evenorodd(num):
+    if (num>=35):
+        print('Pass :)')
+    else:
+        print('Fail :(')
+        
+a=int(input('Enter mark to know even pass or fail: '))
+evenorodd(a)
