@@ -1,5 +1,5 @@
 # mycodesinpython
-Started learning basic coding skills in python to jump start my career in IT from decades of work experience in mechanical domain
+**Started learning basic coding skills in python to jump start my career in IT from decades of work experience in mechanical domain**
 
 🚀 Passionate Mechanical Engineer Exploring IT Horizons 🚀
 
