@@ -1,0 +1,12 @@
+print('Welcome to world of Python!')
+
+def add():
+    return a+b
+
+a=int(input('Enter value for A: '))
+b=int(input('Enter value for B: '))
+print(add())
+c=int(input('Enter value for C: '))
+added = add()
+output=added*c
+print(output)
