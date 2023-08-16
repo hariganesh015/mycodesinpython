@@ -1,0 +1,14 @@
+
+def printrange():
+    if (a<b):
+        for i in range (a+1,b):
+            print(i,end=',')
+    else:
+        
+        for i in range(b+1,a):
+            print(i,end=',')
+       
+global a,b        
+a=int(input('Enter Value for A: '))
+b=int(input('Enter Value for B: '))
+printrange()
