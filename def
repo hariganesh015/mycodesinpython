@@ -1,0 +1,27 @@
+global a,b
+a=int(input('Enter Value for A:'))
+b=int(input('Enter Value for B:'))
+def add():
+    global c
+    c=int(input('Enter Value for C:'))
+    print('Addition')
+    print('Additional of above value are ',a+b+c)
+    
+def sub():
+    print('Subraction')
+    print('Subraction of above value are ',a-b-c)
+
+def mul():
+    print('Mutiple')
+    print('Multiplication of above value are ',a*b*c)
+
+    
+def div():
+    print('Divide')
+    print('Division of above value are ',a/b/c)
+    
+print('Welcome Back!')
+add()
+sub()
+mul()
+div()
