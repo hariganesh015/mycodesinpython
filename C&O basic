@@ -1,0 +1,23 @@
+print('Welcome to world of Python!')
+class laptop:
+    price=0
+    processor=''
+    ram=''
+    
+hp=laptop()
+dell=laptop()
+lenovo=laptop()
+
+hp.price=50000
+hp.processor='i5'
+hp.ram='8GB'
+
+dell.price=250000
+dell.processor='i9'
+dell.ram='32GB'
+
+lenovo.price=95000
+lenovo.processor='i7'
+lenovo.ram='16GB'
+
+print("price of hp laptop is:",hp.price)
